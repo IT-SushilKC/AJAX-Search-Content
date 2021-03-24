@@ -1,0 +1,39 @@
+body{
+    font-family: sans-serif;
+    background: #b2bec3;
+    padding: 0;
+    margin: 0;
+}
+h1{
+    text-align: center;
+    margin: 15px;
+}
+#main{
+    width: 800px;
+    margin: 0 auto;
+    background: white;
+    font-size: 19px;
+}
+#header{
+    background: #f7d794;
+}
+#table-form{
+    background: #55efc4;
+    padding: 20px 10px;
+}
+#table_data{
+    padding: 16px;
+    height: 500px;
+    vertical-align: top;
+}
+#table_data th{
+    background: #ecf0f1;
+
+}
+#table-data tr:nth-child(odd){
+    background: #ecf0f1;
+}
+#search-bar{
+    float: right;
+    margin-bottom: 12px;
+}
